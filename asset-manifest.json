@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/react-investment-calculator/static/css/main.f855e6bc.css",
-    "main.js": "/react-investment-calculator/static/js/main.786b23c5.js",
-    "static/js/787.4407b3ef.chunk.js": "/react-investment-calculator/static/js/787.4407b3ef.chunk.js",
-    "static/media/logo.svg": "/react-investment-calculator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/react-investment-calculator/static/css/main.1a0b8b2b.css",
+    "main.js": "/react-investment-calculator/static/js/main.892635be.js",
+    "static/media/investment-calculator-logo.png": "/react-investment-calculator/static/media/investment-calculator-logo.c20da4d5b23f8d49ad00.png",
     "index.html": "/react-investment-calculator/index.html",
-    "main.f855e6bc.css.map": "/react-investment-calculator/static/css/main.f855e6bc.css.map",
-    "main.786b23c5.js.map": "/react-investment-calculator/static/js/main.786b23c5.js.map",
-    "787.4407b3ef.chunk.js.map": "/react-investment-calculator/static/js/787.4407b3ef.chunk.js.map"
+    "main.1a0b8b2b.css.map": "/react-investment-calculator/static/css/main.1a0b8b2b.css.map",
+    "main.892635be.js.map": "/react-investment-calculator/static/js/main.892635be.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.786b23c5.js"
+    "static/css/main.1a0b8b2b.css",
+    "static/js/main.892635be.js"
   ]
 }
